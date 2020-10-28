@@ -36,11 +36,12 @@
             <header class="header box">
                 <div class="header__left">
                     <div class="header__photo">
-                        <img class="header__photo-img" src="assets/img/03001a93.jpg" alt="Jackson Carvalho de Melo">
+                        <img class="header__photo-img" src="/home/jackson/Downloads jackson.png"
+                            alt="Jackson Carvalho de Melo">
                     </div>
                     <div class="header__base-info">
                         <h4 class="title titl--h4">Jackson Carvalho de Melo</h4>
-                        <div class="status">Desenvolvedor WEB</div>
+                        <div class="status">Estudante de webdesigner</div>
                         <ul class="header__social">
                             <li>
                                 <a href=" https://www.linkedin.com/in/jackson-carvalho-de-melo-7214561ba/
@@ -125,7 +126,7 @@
                         <!-- Sobre Mim  -->
                         <div class="pb-0 pb-sm-2">
                             <h1Sou class="title title--h1 first-title title__separate">Sobre Mim</h1Sou>
-                            <p>Sou professor e atualmente estudande de webdesigner. </p>
+                            <p>Sou professor e atualmente estudante de webdesigner. </p>
 
 
                             <div>
